@@ -1,0 +1,17 @@
+fonts
+https://www.google.com/fonts/specimen/Cookie
+* <link href='https://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+* font-family: 'Cookie', cursive;
+
+https://www.google.com/fonts/specimen/Lora
+* <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+* font-family: 'Lora', 'Palatino Linotype', Palatino, serif;
+
+https://www.google.com/fonts/specimen/Lato
+* <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+* font-family: 'Lato', Helvetica, sans-serif;
+
+colors
+blue: #5ac6cc
+purple: #7f3f98
+yellow: #fde699

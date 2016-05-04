@@ -10,6 +10,7 @@ https://www.google.com/fonts/specimen/Lora
 https://www.google.com/fonts/specimen/Lato
 * <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 * font-family: 'Lato', Helvetica, sans-serif;
+* 'Abel' might be an alternative to this
 
 colors
 blue: #5ac6cc
